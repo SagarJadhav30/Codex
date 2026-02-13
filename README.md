@@ -1,1 +1,2 @@
-# Welcome to your Lovable project
+# AI Generated Quiz Platform 
+
